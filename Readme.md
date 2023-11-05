@@ -1,5 +1,6 @@
 # Thanos E-shop
 ![Image](https://i.ibb.co/0VMHZ13/image.png)
+
 Client Code : [Link](#technologies-used) (Private Reposotory)
 
 Server Code : [Link](#technologies-used) (Private Reposotory)
